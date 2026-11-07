@@ -1,0 +1,20 @@
+{
+  "name": "ts-disjoint-set",
+  "version": "1.0.0",
+  "description": "Union-Find with path compression and union by rank",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "union-find", "disjoint-set", "data-structures", "algorithms"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-disjoint-set.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
